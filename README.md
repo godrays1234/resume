@@ -1,4 +1,6 @@
 # resume
+[резюме.docx](https://github.com/user-attachments/files/26149375/default.docx)
+
 РЕЗЮМЕ
 Шогенов Алим Алексеевич
 📍 Зеленоград | 📞 +7 (928) 914-23-47
