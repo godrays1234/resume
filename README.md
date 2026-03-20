@@ -1,11 +1,11 @@
 # resume
-[резюме.docx](https://github.com/user-attachments/files/26149375/default.docx)
+
 
 # 📄 Резюме — Шогенов Алим Алексеевич
 
 ## 📥 Скачать резюме
 
-[📄 Скачать PDF-версию](./Resume_Shogenov_Alim.pdf)
+[📄 Скачать PDF-версию]([./Resume_Shogenov_Alim.pdf](https://github.com/user-attachments/files/26149375/default.docx))
 
 ---
 
