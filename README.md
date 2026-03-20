@@ -5,7 +5,7 @@
 
 ## 📥 Скачать резюме
 
-[📄 Скачать PDF-версию]([./Resume_Shogenov_Alim.pdf](https://github.com/user-attachments/files/26149375/default.docx))
+[📄 Скачать PDF-версию]([./https://github.com/user-attachments/files/26149375/default.docx)
 
 ---
 
